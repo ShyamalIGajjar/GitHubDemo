@@ -3,7 +3,8 @@
 3. Git status
 4. add new file in the folder, then check status, it will show one untracked file
 5. git add newfile -> git status-> new file becomes green and shows no unrtacked file
-5. for all new files and modified files to be add, git add .(dot)
+6 for all new files and modified files to be add, git add .(dot)
+7 git commit -m "message"
 
 (use "git add <file>..." to update what will be committed)
   (use "git restore <file>..." to discard changes in working directory)

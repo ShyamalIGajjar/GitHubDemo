@@ -2,4 +2,4 @@
 
 This is my first git repository
 <br>
-Author- Shyamal (Github Demo)
+Author- Shyamal (Github Demogit status)
